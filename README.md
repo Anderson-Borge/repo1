@@ -233,5 +233,7 @@ echo \
 - Esses comandos configuram o sistema para permitir a instalação do Docker diretamente do repositório oficial do Docker para Ubuntu, garantindo que os pacotes sejam autenticados com segurança usando a chave GPG. Em seguida, você poderá instalar o Docker Engine e suas ferramentas usando os comandos `apt-get` sem precisar adicionar manualmente o repositório ou chave a cada instalação.
 
 <!-- <h1>linha 506</h1> -->
+<!-- <h1>linha 506</h1> -->
+<!-- <h1>linha 506</h1> -->
 
   
